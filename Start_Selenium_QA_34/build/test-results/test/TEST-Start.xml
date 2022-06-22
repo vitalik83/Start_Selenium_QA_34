@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Start" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-22T14:23:24" hostname="LAPTOP-IBOJBCN6" time="19.687">
+<testsuite name="Start" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-22T15:09:22" hostname="LAPTOP-IBOJBCN6" time="27.076">
   <properties/>
-  <testcase name="firstTest" classname="Start" time="19.687"/>
+  <testcase name="firstTestRegistrationSuccess" classname="Start" time="27.076"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 55949
+  <system-err><![CDATA[Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 50185
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jun 22, 2022 5:23:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Jun 22, 2022 6:09:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Jun 22, 2022 5:23:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jun 22, 2022 6:09:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found exact CDP implementation for version 102
 ]]></system-err>
 </testsuite>
